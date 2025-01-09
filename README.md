@@ -2,7 +2,8 @@
 Bem-vindo ao meu perfil do GitHub!  
 
 ## Sobre mim
-- 🌱 Aprendendo **Desenvolvimento Web**  
+- 🌱 Aprendendo **Desenvolvimento Web**
+- 🎓 Bacharelado em **Engenharia de software**
 - 💼 Trabalhando como **Vigilante** enquanto estudo  
 - 🎯 Objetivo: Tornar-se um desenvolvedor full-stack  
 
