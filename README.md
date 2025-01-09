@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá, eu sou Carlos Antônio! 👋
+Bem-vindo ao meu perfil do GitHub!  
 
-<!--
-**Carlos-dta/Carlos-dta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 🌱 Aprendendo **Desenvolvimento Web**  
+- 💼 Trabalhando como **Vigilante** enquanto estudo  
+- 🎯 Objetivo: Tornar-se um desenvolvedor full-stack  
 
-Here are some ideas to get you started:
+## Tecnologias que estou usando:
+- HTML, CSS, JavaScript  
+- Firebase Authentication e Firestore  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em Destaque
+- [Salão Online](https://github.com/seu-usuario/salao_online)  
+- [Portfólio](https://github.com/seu-usuario/portfolio)  
+
+## Contato
+- 📧 Email: carlos.dta@hotmail.com  
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-dta&" alt="Contribuições contínuas" />
+</p>
+
+---
+
+## 🚀 Treinamentos da Rocketseat:
+<p align="center">
+  <img src="https://xesque.rocketseat.dev/platform/1709658495701.svg" alt="Curso Full Stack da Rocketseat" width="150" />
+
+---
+
+## 📚 Treinamentos:
+
+
+---
+
+## 🏆 Certificados:
+
